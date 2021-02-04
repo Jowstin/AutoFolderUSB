@@ -29,4 +29,6 @@ f=open("Worked.txt","w+")
 f.write("Congrates it is finished.\n")
 f.write("It worked if you are seeing this.\n")
 f.write("You can delete this. I hope you like this little tool.\n")
-f.write("I just made this in my free time.")# End Of Code
+f.write("I just made this in my free time.")
+os.chdir("..")
+os.remove("AutoFolderUSB-main")# End Of Code
