@@ -4,9 +4,9 @@ import os
 # Program Purpose       To make a program that will make folders for a usb automatically.
 # Program Date          2/03/2021 Jowstin Fox
 print("Users System:",sys.platform)
-ST=input("Press enter to start.")
+ST=input("Press enter to start: ")
 print()
-USBdir=input("Input the path to your usb.: ")
+USBdir=input("Input the path to your usb: ")
 os.chdir(USBdir)
 os.mkdir("Home")
 os.mkdir("Work")
