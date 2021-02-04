@@ -2,7 +2,7 @@ import sys
 import os
 # Program Name          AutoUSB
 # Program Purpose       To make a program that will make folders for a usb automatically.
-# Program Date          2/03/2021 Justin Foss
+# Program Date          2/03/2021 Jowstin Fox
 print("Users System:",sys.platform)
 ST=input("Press enter to start.")
 print()
