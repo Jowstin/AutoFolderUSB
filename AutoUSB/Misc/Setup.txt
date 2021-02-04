@@ -1,4 +1,0 @@
-Run the python program in the USB that you want to creates the folders in.
-
-This may work on both Linux and Windows.
-This does work on Linux though.
