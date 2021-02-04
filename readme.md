@@ -6,4 +6,3 @@ This is just a little thing I made after my python class. This just makes folder
 Run the python program in the USB that you want to creates the folders in.
 This works in both Linux and Windows.
 
-*IMPORTANT* *Put this file in the same location as you want to put the folders* *IMPORTANT*
